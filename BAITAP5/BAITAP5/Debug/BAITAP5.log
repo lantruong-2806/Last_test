@@ -1,0 +1,4 @@
+﻿  main.c
+h:\imic\the last_test\baitap5\baitap5\main.c(15): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+h:\imic\the last_test\baitap5\baitap5\main.c(15): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  BAITAP5.vcxproj -> H:\IMIC\THE LAST_TEST\BAITAP5\Debug\BAITAP5.exe

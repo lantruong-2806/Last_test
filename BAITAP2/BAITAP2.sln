@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAITAP2", "BAITAP2\BAITAP2.vcxproj", "{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Debug|x64.ActiveCfg = Debug|x64
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Debug|x64.Build.0 = Debug|x64
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Debug|x86.Build.0 = Debug|Win32
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Release|x64.ActiveCfg = Release|x64
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Release|x64.Build.0 = Release|x64
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Release|x86.ActiveCfg = Release|Win32
+		{DF2BCD44-4A90-4A74-8722-C9165F61FBA0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89F044F5-4503-47CB-85E1-FD8829A69156}
+	EndGlobalSection
+EndGlobal
